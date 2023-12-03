@@ -1,4 +1,4 @@
-Car Rental Demo using Next.js with TypeScript and API
+Car Rental (Demo) using Next.js with TypeScript and API
 
 ![Screenshot (49)](https://github.com/TerranceFinleyZ/RentalGT/assets/112042894/55254b2e-fb12-482d-8c3f-3f4887bd15f9)
 ![Screenshot (50)](https://github.com/TerranceFinleyZ/RentalGT/assets/112042894/52ad293b-dd5b-4ad5-94b4-de0a9056e846)
